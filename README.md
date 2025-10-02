@@ -83,6 +83,9 @@ I enjoy combining technology with my personal hobbies like photography and video
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXRjaXo0Z2YxNzBua2VtbHozZTU5NWFuamp5azJwNjh2bnZsazN4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LXxWO0pgGEma8W40A9/giphy.gif" width="200"/>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGdwemFyazZkN3FucHpyNHM1Mmgzd293YTI5a3l2MjF2czVkOW9sMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HZzyYYSDpcfHTrQIC9/giphy.gif" width="200"/>
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFoYms0a2dlcTVzYnhsa3NyZXFtMHh5MWJmemdzMGRocmc4dTgxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k81NasbqkKA5HSyJxN/giphy.gif" width="200"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnJyMXdzNWplb2hvamRoNjUxcWxveDZiazN2Ymd1MGdycXAyNDl3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cXB6xRcKPkwAdBqBAy/giphy.gif" width="200"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGoyenhwM3R5NXN0YTg4YTNtZ240OHpqcHlrZXRwZjIzMW9nbXo5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0PdpjtGi8SCYpb29Fu/giphy.gif" width="200"/>
+   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cHdzdDE3ZHJuZzcyMG9oM2x0d2NmcW82Njl3Y2wyZTM5OXI5bmoyYSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="200"/>
 </p>
 
 ✨ *"Design is not just how it looks and feels, but how it works."* ✨
