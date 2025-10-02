@@ -79,8 +79,10 @@ I enjoy combining technology with my personal hobbies like photography and video
 ---
 
 ## ⚡ Fun Pixel Aesthetic
-<p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="200"/>
+<p align="left">
+  <img src="http://giphy.com/gifs/coogfans-beautiful-pixel-art-LXxWO0pgGEma8W40A9" width="200"/>
+  <img src="https://giphy.com/gifs/HZzyYYSDpcfHTrQIC9" width="200"/>
+  <img src="https://giphy.com/gifs/80s-synthwave-aesthetic-k81NasbqkKA5HSyJxN" width="200"/>
 </p>
 
 ✨ *"Design is not just how it looks and feels, but how it works."* ✨
