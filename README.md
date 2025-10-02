@@ -31,11 +31,11 @@ Programming basics.
 I enjoy combining technology with my personal hobbies like photography and videography, and often find inspiration from them to create new projects.  
 
 - 🎨 Specializing in **UX/UI design**, **motion graphics**, and **front-end development**
-- 
+  
 - 🛠 Favorite tools: **Figma**, **Canva**, **Adobe Photoshop**, **Adobe Premiere**, **After Effects**
-- 
+  
 - 💻 Love blending **design & engineering** to craft user-centered digital products
-- 
+  
 - 🎮 Aesthetic: *Pixel, minimal, playful, and creative*  
 
 ---
@@ -72,11 +72,6 @@ I enjoy combining technology with my personal hobbies like photography and video
 ![](https://nirzak-streak-stats.vercel.app/?user=erickfedryano&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=erickfedryano&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErickFedryano&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickFedryano&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150"/>
-</p>
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=erickfedryano&icon=0&color=0)](https://visitcount.itsvg.in)  
@@ -86,7 +81,6 @@ I enjoy combining technology with my personal hobbies like photography and video
 ## ⚡ Fun Pixel Aesthetic
 <p align="center">
   <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/JtBZm6mz2Cie6xF2sk/giphy.gif" width="200"/>
 </p>
 
 ✨ *"Design is not just how it looks and feels, but how it works."* ✨
