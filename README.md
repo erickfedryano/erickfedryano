@@ -37,7 +37,6 @@
 ## ⚡ Fun Pixel Aesthetic
 <p align="center">
   <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/JtBZm6mz2Cie6xF2sk/giphy.gif" width="200"/>
 </p>
 
 ✨ *"Design is not just how it looks and feels, but how it works."* ✨  
