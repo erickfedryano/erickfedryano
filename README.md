@@ -81,8 +81,8 @@ I enjoy combining technology with my personal hobbies like photography and video
 ## ⚡ Fun Pixel Aesthetic
 <p align="left">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXRjaXo0Z2YxNzBua2VtbHozZTU5NWFuamp5azJwNjh2bnZsazN4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LXxWO0pgGEma8W40A9/giphy.gif" width="200"/>
-  <img src="https://giphy.com/gifs/HZzyYYSDpcfHTrQIC9" width="200"/>
-  <img src="https://giphy.com/gifs/80s-synthwave-aesthetic-k81NasbqkKA5HSyJxN" width="200"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGdwemFyazZkN3FucHpyNHM1Mmgzd293YTI5a3l2MjF2czVkOW9sMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HZzyYYSDpcfHTrQIC9/giphy.gif" width="200"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFoYms0a2dlcTVzYnhsa3NyZXFtMHh5MWJmemdzMGRocmc4dTgxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k81NasbqkKA5HSyJxN/giphy.gif" width="200"/>
 </p>
 
 ✨ *"Design is not just how it looks and feels, but how it works."* ✨
